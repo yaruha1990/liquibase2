@@ -1,0 +1,1 @@
+Example of generating change sets from existing database via liquibase gradle plugin
